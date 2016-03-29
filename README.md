@@ -8,3 +8,6 @@ Uygulamanın kullanımı çok basittir.Öncelikle resimlerin bulundğu klasörü
 ###Önemli
 Klasördeki sadece JPG uzantılı dosyaları seçmektedir.
 Eğer diğer resim uzantılı dosyalarıda seçmek istiyorsanız.İletişime geçebilirsiniz --- ugur.cosar2016@gmail.com
+
+###Uygulamayı nasıl indireceğim
+![image](https://raw.githubusercontent.com/ugurcosar/eokulresimduzenleme/master/2.png)
