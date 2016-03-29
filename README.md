@@ -7,4 +7,4 @@ Uygulamanın kullanımı çok basittir.Öncelikle resimlerin bulundğu klasörü
 
 ###Önemli
 Klasördeki sadece JPG uzantılı dosyaları seçmektedir.
-Eğer diğer resim uzantılı dosyalarıda seçmek istiyorsanız.İletişime geçebilirsiniz---ugur.cosar2016@gmail.com
+Eğer diğer resim uzantılı dosyalarıda seçmek istiyorsanız.İletişime geçebilirsiniz --- ugur.cosar2016@gmail.com
