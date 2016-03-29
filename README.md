@@ -4,3 +4,7 @@ Uygulamanın kullanımı çok basittir.Öncelikle resimlerin bulundğu klasörü
 İşlem tamamlandığında size mesaj ile bilgilendirme yapacaktır.Resimlerin bulunduğu klaösrün içerisine bir tane daha klasör oluşturacaktır.
 
 ![image](https://raw.githubusercontent.com/ugurcosar/eokulresimduzenleme/master/1.png)
+
+###Önemli
+Klasördeki sadece JPG uzantılı dosyaları seçmektedir.
+Eğer diğer resim uzantılı dosyalarıda seçmek istiyorsanız.İletişime geçebilirsiniz---ugur.cosar2016@gmail.com
